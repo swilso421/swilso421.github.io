@@ -6,7 +6,7 @@
 <head>
 	<title>Coding Club</title>
 	<link rel="stylesheet" type="text/css" href="stylesheets/coding-club-style.css">
-        <script type="text/javascript" src="scripts/404.js"></script>
+    <script type="text/javascript" src="scripts/404.js"></script>
 </head>
 
 <body>
@@ -25,9 +25,9 @@
 		<div class="content-wrapper">
 			<div class="content">
 				<div class="inner-content">
-                                    <h1>404: Not Found</h1>
-                                    <p>Looks like that link you took to get here was broken. We can send a repairman out there sometime next week. Just make sure someone is home from 8 a.m. to 4 p.m. Monday through Friday.</p>
-                                    <p style="text-align: center;"><script>getImage()</script></p>
+                    <h1>404: Not Found</h1>
+                    <p>Looks like that link you took to get here was broken. We can send a repairman out there sometime next week. Just make sure someone is home from 8 a.m. to 4 p.m. Monday through Friday.</p>
+                    <p style="text-align: center;"><script>getImage()</script></p>
 				</div>
 			</div>
 		</div>
