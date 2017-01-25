@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<title>Coding Club</title>
+	<link rel="stylesheet" type="text/css" href="stylesheets/coding-club-style.css">
+        <script type="text/javascript" src="scripts/404.js"></script>
+</head>
+
+<body>
+	<div class="main-wrapper">
+		<div class="header">
+			<img src="resources/coding-club-logo.png" style="float: left" />
+			<div class="hornav" style="bottom: -10px;left: -10px;">&#104;&#101;&#114;&#109;&#097;&#110;&#116;&#111;&#119;&#110;&#099;&#111;&#100;&#105;&#110;&#103;&#055;&#048;&#048;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</div>
+			<div class="hornav">
+				<ul>
+					<li><a href="home.html">Home</a></li>
+					<li><a href="helpful-links.html">Helpful Links</a></li>
+					<li><a href="www.google.com">Software</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="content-wrapper">
+			<div class="content">
+				<div class="inner-content">
+                                    <h1>404: Not Found</h1>
+                                    <p>Looks like that link you took to get here was broken. We can send a repairman out there sometime next week. Just make sure someone is home from 8 a.m. to 4 p.m. Monday through Friday.</p>
+                                    <p style="text-align: center;"><script>getImage()</script></p>
+				</div>
+			</div>
+		</div>
+		<div class="left-column">
+			<div class="vertnav">
+				<!--<ul>
+					<li><a href="www.google.com">Day One</a></li>
+					<li><a href="www.google.com">Day Two</a></li>
+					<li><a href="www.google.com" style="border-bottom: none;">Day Three</a></li>
+					<li><a href="beta.html" style="background-color: transparent;border: none;"></a></li>
+				</ul>-->
+			</div>
+		</div>
+		<div class="right-column"></div>
+		<div class="footer">&copy; Copyright 2014 Sam Wilson</div>
+	</div>
+</body>
+</html>

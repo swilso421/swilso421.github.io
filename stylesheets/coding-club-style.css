@@ -1,0 +1,127 @@
+body {
+    text-align: center;
+    background-image: url(/resources/escheresque.png);
+    font-size: 16pt;
+}
+
+div {
+    
+}
+
+div.main-wrapper {
+    width: 1263px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+div.header {
+    background-color: black;
+    color: white;
+    text-align: right;
+    min-height: 185px;
+}
+
+div.content-wrapper {
+    background-color: transparent;
+    float: left;
+    width: 100%;
+}
+
+div.content {
+    width: 888px;
+    padding: 0px;
+    margin: 0px 175px 0px 200px;
+}
+
+div.inner-content {
+    margin: 0px 5px;
+    text-align: left;
+    background-color: #FFFFFF;
+    color: black;
+    padding: 5px 9px;
+}
+
+div.left-column {
+    float: left;
+    width: 200px;
+    margin-left: -1263px;
+}
+
+div.right-column {
+    float: left;
+    width: 175px;
+    margin-left: -175px;
+}
+
+div.footer {
+    clear: left;
+    width: 100%;
+    text-align: left;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.hornav {
+    background-color: transparent;
+    position: relative;
+    bottom: -130px;
+    left: -10px;
+}
+
+.hornav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hornav li {
+    display: inline;
+    margin: 0px 5px;
+}
+
+.hornav a:link, .hornav a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.hornav a:hover, .hornav a:active, .hornav a.self {
+    color: #0015FF;
+}
+
+.vertnav {
+    background-color: transparent;
+    text-align: center;
+    width: 200px;
+}
+
+.vertnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.vertnav li {
+    
+}
+
+.vertnav a:link, .vertnav a:visited {
+    display: block;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFFFFF;
+    width: 198px;
+    text-align: left;
+    padding: 0px 0px 0px 5px;
+    border-left: solid #000000 2px;
+    border-bottom: solid #000000 2px;
+    border-right: dotted #000000 2px;
+    text-decoration: none;
+    min-height: 40px;
+    line-height: 40px;
+}
+
+.vertnav a:hover, .vertnav a:active, .vertnav a.self {
+    border-right: hidden;
+}
