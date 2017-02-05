@@ -25,6 +25,14 @@ div.content-wrapper {
   width: 100%;
 }
 
+div.content-third {
+  color: red;
+  background-color: transparent;
+  margin: 0px;
+  border: 0px;
+  width: 33%;
+}
+
 div.footer {
   clear: left;
   width: 100%;
